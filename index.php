@@ -11,6 +11,9 @@
 <body>
     <h1>Hellow WOrld!</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure ipsum dignissimos culpa eius, earum quaerat illo esse totam. Ut nemo quisquam officiis debitis deserunt minima consequatur suscipit harum maxime nesciunt.</p>
+    <ul>
+        <li>Coba nii</li>
+    </ul>
 </body>
 
 </html>
